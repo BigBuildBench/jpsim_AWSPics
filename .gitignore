@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.sass-cache/
+*.css.map
+.idea/
+package-lock.json
+.nyc_output/
+.DS_Store

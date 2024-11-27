@@ -1,0 +1,8 @@
+{
+  "name": "lambda-cloudfront-cookies",
+  "version": "1.0.1",
+  "description": "AWS Lambda function that creates CloudFront cookies for valid users",
+  "author": "thumbsup",
+  "license": "MIT",
+  "main": "index.js"
+}
